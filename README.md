@@ -7,11 +7,11 @@ A quick and _really_ simple [React](https://facebook.github.io/react/) app start
 ---
 
 ## Features
+- [x] Webpack integration
+- [x] Babel integration
 
 ## Todo/Future feature list
 
-- [x] Webpack integration
-- [x] Babel integration
 - [ ] Linting tool (ESLint? JSLint? JSHint?)
 - [ ] Documentation
 
