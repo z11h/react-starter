@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "react": "^15.1.0",
-    "react-dom": "^15.1.0",
+    "react-dom": "^15.1.0"
   },
   "devDependencies": {
     "webpack": "^1.13.1",
