@@ -1,14 +1,29 @@
-# react-starter
-[![Dependency Status](https://david-dm.org/zakariaridouh/react-starter.svg)](https://david-dm.org/zakariaridouh/react-starter)
-[![devDependency Status](https://david-dm.org/zakariaridouh/react-starter/dev-status.svg)](https://david-dm.org/zakariaridouh/react-starter#info=devDependencies)
+<h1 align="center">
+  <br />
+  react starter
+</h1>
 
-A quick and _really_ simple [React](https://facebook.github.io/react/) app starter with [Webpack](https://webpack.github.io/) and [Babel](https://babeljs.io/)!
+<h3 align="center">
+  a simple <a target="_blank" href="https://facebook.github.io/react/">react</a> app kickstarter with <a target="_blank" href="https://webpack.github.io/">webpack</a> and <a target="_blank" href="https://babeljs.io/">babel</a>!
+</h3>
 
----
+<div align="center">
+  <a target="_blank" href="https://david-dm.org/zakariaridouh/react-starter">
+    <img src="https://david-dm.org/zakariaridouh/react-starter.svg" alt="npm dependencies" />
+  </a>
+  <a target="_blank" href="https://david-dm.org/zakariaridouh/react-starter#info=devDependencies">
+    <img src="https://david-dm.org/zakariaridouh/react-starter/dev-status.svg" alt="npm dev dependencies" />
+  </a>
+  <a target="_blank" href="https://github.com/ZakariaRidouh/react-starter/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
+  </a>
+</div>
+
+<br />
 
 ## Features
 - [x] Webpack integration
-- [x] Babel integration
+- [x] Babel integration (ES6 support)
 - [x] Setup React Environment
 
 ## Todo/Future feature list
