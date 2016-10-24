@@ -23,15 +23,23 @@
 
 ## Features
 - [x] Webpack integration
-- [x] Babel integration (ES6 support)
+- [x] Babel integration (ES6/JSX support)
 - [x] Setup React Environment
 
 ## Todo/Future feature list
 
 - [ ] Linting tool (ESLint? JSLint? JSHint?)
 - [ ] Documentation
+- [ ] Add ES7+ support
 
 * Want to see a new feature? Open an issue!
+
+---
+
+## Requirements:
+- [nodeJS](https://nodejs.org/)
+- [yarn](https://yarnpkg.com/)
+- [git](https://git-scm.com/)
 
 ---
 
@@ -40,7 +48,8 @@
 ```sh
 $ git clone https://github.com/ZakariaRidouh/react-starter.git MyCoolApp
 ```
-2. Open up App.js (the base React component).
-3. Start developing your React App!
-4. run ``` npm run start ``` and navigate to localhost:3333 to view your app!
-5. Profit! :smile:
+2.
+3. Open up App.js (the base React component).
+4. Start developing your React App!
+5. run ``` npm run start ``` and navigate to localhost:3333 to view your app!
+6. Profit! :smile:
