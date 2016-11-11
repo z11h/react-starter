@@ -46,9 +46,9 @@
 ---
 
 ## Get Started
-1. Make a bare clone of the repo into your app dir like so:
+1. Make a shallow clone of the repo into your app dir like so:
 ```sh
-$ git clone --bare https://github.com/ZakariaRidouh/react-starter.git MyCoolApp
+$ git clone --depth 1 https://github.com/ZakariaRidouh/react-starter.git MyCoolApp
 ```
 2. run `yarn start` (or `npm run start` if you're old school).
 
