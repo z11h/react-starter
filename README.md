@@ -29,6 +29,8 @@
 ## Todo/Future feature list
 
 - [ ] Linting tool (ESLint? JSLint? JSHint?)
+- [ ] Flow support
+- [ ] Hot reloading?
 - [ ] Documentation
 - [ ] Add ES7+ support
 
@@ -44,12 +46,14 @@
 ---
 
 ## Get Started
-1. Clone the repo into your app dir like so:
+1. Make a bare clone of the repo into your app dir like so:
 ```sh
-$ git clone https://github.com/ZakariaRidouh/react-starter.git MyCoolApp
+$ git clone --bare https://github.com/ZakariaRidouh/react-starter.git MyCoolApp
 ```
-2.
+2. run `yarn start` (or `npm run start` if you're old school).
+
 3. Open up App.js (the base React component).
-4. Start developing your React App!
-5. run ``` npm run start ``` and navigate to localhost:3333 to view your app!
+
+4. Make some changes!
+
 6. Profit! :smile:
