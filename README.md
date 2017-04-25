@@ -8,13 +8,13 @@
 </h3>
 
 <div align="center">
-  <a target="_blank" href="https://david-dm.org/zakariaridouh/react-starter">
-    <img src="https://david-dm.org/zakariaridouh/react-starter.svg" alt="npm dependencies" />
+  <a target="_blank" href="https://david-dm.org/zakrid/react-starter">
+    <img src="https://david-dm.org/zakrid/react-starter.svg" alt="npm dependencies" />
   </a>
-  <a target="_blank" href="https://david-dm.org/zakariaridouh/react-starter#info=devDependencies">
-    <img src="https://david-dm.org/zakariaridouh/react-starter/dev-status.svg" alt="npm dev dependencies" />
+  <a target="_blank" href="https://david-dm.org/zakrid/react-starter#info=devDependencies">
+    <img src="https://david-dm.org/zakrid/react-starter/dev-status.svg" alt="npm dev dependencies" />
   </a>
-  <a target="_blank" href="https://github.com/ZakariaRidouh/react-starter/pulls">
+  <a target="_blank" href="https://github.com/zakrid/react-starter/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
   </a>
 </div>
@@ -48,7 +48,7 @@
 ## Get Started
 1. Make a shallow clone of the repo into your app dir like so:
 ```sh
-$ git clone --depth 1 https://github.com/ZakariaRidouh/react-starter.git MyCoolApp
+$ git clone --depth 1 https://github.com/zakrid/react-starter.git MyCoolApp
 ```
 2. run `yarn start` (or `npm run start` if you're old school).
 
